@@ -20,5 +20,71 @@
         </a>
       </ul>
     </div>
+    <div class="blog-body">
+      <h1>
+        Effortless Deployment: Automating GitHub Repository Deployment via FTP
+      </h1>
+      <p>
+        In the realm of modern development workflows, automating deployment
+        processes is paramount to boosting efficiency and productivity. One
+        effective way to achieve this is by automatically deploying code from a
+        GitHub repository to a web server via FTP (File Transfer Protocol). In
+        this guide, we'll walk through the streamlined process of setting up
+        automatic deployment for your GitHub repository to an FTP server,
+        empowering you to deploy changes seamlessly with each push.
+      </p>
+      <h2>Step 1: Set Up FTP Credentials as Secrets</h2>
+      <p>
+        After creating a GitHub repository, the first step is to establish an
+        FTP connection. Head over to your hosting provider's platform and create
+        a new FTP account. Make sure to note down the FTP server link, FTP
+        username, and FTP password.
+      </p>
+      <p>
+        Next, navigate to your GitHub repository's settings and go to "Settings"
+        > "Secrets and Variables" > "Actions" tab. Here, create three new
+        secrets named "ftp_server", "ftp_username", and "ftp_password", and
+        respectively paste the FTP server link, username, and password into
+        each.
+      </p>
+      <h2>Step 2: Configure Deployment Workflow</h2>
+      <p>
+        Now, let's set up the deployment workflow. Within your repository,
+        navigate to the "Actions" tab and click on "Set up a workflow yourself".
+        In the code editor that opens, paste the following YAML configuration:
+      </p>
+      <pre>
+      
+      yaml Copy code on: push name: 🚀 Deploy website on push jobs: web-deploy:
+      name: 🎉 Deploy runs-on: ubuntu-latest steps: - name: 🚚 Get latest code
+      uses: actions/checkout@v4 - name: 📂 Sync files uses:
+      SamKirkland/FTP-Deploy-Action@v4.3.5 with: server: ${{ secrets.ftp_server }}
+      username: ${{ secrets.ftp_username }} password: ${{ secrets.ftp_password }}
+      
+    </pre
+      >
+      <p>
+        This workflow listens for pushes to your repository and triggers
+        deployment automatically. It retrieves the latest code, then syncs the
+        files to your FTP server using the specified credentials.
+      </p>
+      <h2>Step 3: Deploy with Ease</h2>
+      <p>
+        With the workflow in place, clone the repository to your local machine
+        using Git commands. From now on, every push to your repository will
+        trigger deployment to your website, ensuring that your changes are
+        promptly reflected online.
+      </p>
+      <p>
+        For any further inquiries or assistance, feel free to reach out to me at
+        muhsin.altintop@gmail.com.
+      </p>
+      <p>
+        By automating your GitHub repository deployment via FTP, you not only
+        streamline your development workflow but also ensure rapid and reliable
+        delivery of updates to your website. Embrace automation and propel your
+        projects to new heights!
+      </p>
+    </div>
   </body>
 </html>
