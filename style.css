@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  padding: 1rem;
+  background-color: #333;
+  color: #fff;
+
+  ul {
+    width: 100%;
+    a {
+      text-decoration: none;
+      color: #fff;
+
+      li {
+        float: left;
+        margin-left: 10px;
+        list-style: none;
+        border: 1px white solid;
+        padding: 1%;
+      }
+    }
+  }
+}
