@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsinaltintop&label=Profile%20views&color=0e75b6&style=flat" alt="muhsinaltintop" /> </p>
 
-- 🔭 I’m currently working on [Talrise Recruitment Portal](http://app.talrise.com/)
+- 🔭 My Top Projects are:
+    - [GAPs Data Repository Portal] Scalable data management portal for research purposes. (<a href="https://data.returnmigration.eu/">https://data.returnmigration.eu/</a>)
+        -Github Repo: <a href="https://github.com/muhsinaltintop/gap-project">https://github.com/muhsinaltintop/gap-project</a>    
 
-- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **JavaScript, React, NodeJS**
+- 🌱 I’m currently learning **React Native**
+
+- 💬 Ask me about **JavaScript, React, NodeJS, NextJs and React Native**
 
 - 📫 How to reach me **muhsin.altintop@gmail.com**
 
