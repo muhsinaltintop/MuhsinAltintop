@@ -4,9 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsinaltintop&label=Profile%20views&color=0e75b6&style=flat" alt="muhsinaltintop" /> </p>
 
 - 🔭 My Top Projects are:
-    - <a href="https://data.returnmigration.eu/">[GAPs Data Repository Portal]</a> Scalable data management portal for research purposes. (<a href="https://data.returnmigration.eu/">https://data.returnmigration.eu/</a>)
+    - <a href="https://data.returnmigration.eu/">[GAPs Data Repository Portal]</a> Scalable data management portal for research purposes.
       
-        -Github Repo: <a href="https://github.com/muhsinaltintop/gap-project">https://github.com/muhsinaltintop/gap-project</a>    
+        -Github Repo: <a href="https://github.com/muhsinaltintop/gap-project">https://github.com/muhsinaltintop/gap-project</a>
+        
+     - <a href="http://app.talrise.com/">[Talrise Job Application Platform]</a> Streamlined job application portal with enhanced API functionality.
+      
+        -Github Repo: Private Repo
+
+     - <a href="https://theglobalproperty.co.uk/">[The Global Property]</a> Real estate platform serving 5,000 monthly users.
+      
+        -Github Repo: <a href="https://github.com/muhsinaltintop/gap-project">[https://github.com/muhsinaltintop/gap-project](https://github.com/muhsinaltintop/directfromowner)</a>
+        
 
 
 - 🌱 I’m currently learning **React Native**
