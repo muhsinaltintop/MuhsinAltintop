@@ -14,7 +14,7 @@
 
      - <a href="https://theglobalproperty.co.uk/">[The Global Property]</a> Real estate platform serving 5,000 monthly users.
       
-        -Github Repo: <a href="https://github.com/muhsinaltintop/gap-project">[https://github.com/muhsinaltintop/gap-project](https://github.com/muhsinaltintop/directfromowner)</a>
+        -Github Repo: [https://github.com/muhsinaltintop/gap-project](https://github.com/muhsinaltintop/directfromowner)
         
 
 
