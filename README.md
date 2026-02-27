@@ -6,28 +6,24 @@
 </p>
 
 - 🔭 My Top Projects are:
-
   - [Odyssey Counselling (Lovable App)](https://odysseycounselling.lovable.app/): Mobile-first wellbeing web app built with Lovable using vibe coding. Focused on smooth onboarding, daily exercises, notes and feedback flows.
-    
 
+  - [The Empower Platform](https://theempower.org/): Role-based community platform (Admin, Editor, User) built as a structured forum-style knowledge-sharing system.
+    - Github Repo: https://github.com/sambasoftwareuk/theempower
+   
+  - [Greenstep Cooling Towers](https://greenstepcoolingtowers.com/): Corporate website built with performance-first architecture. Achieves near-perfect (≈100) Google PageSpeed score on desktop.
+    - Github Repo: https://github.com/sambasoftwareuk/sambaPanel
+    
   - [GAPs Data Repository Portal](https://data.returnmigration.eu/): Scalable research-focused data management portal with structured datasets, filtering, and visualization components.
     - Github Repo: https://github.com/muhsinaltintop/gap-project
-
-  - [Talrise Job Application Platform](http://app.talrise.com/): Streamlined job application portal with enhanced API architecture and optimized backend processes.
-    - Github Repo: Private Repository
 
   - [The Global Property](https://theglobalproperty.co.uk/): Real estate platform serving 5,000+ monthly users with advanced filtering and property management features.
     - Github Repo: https://github.com/muhsinaltintop/directfromowner
 
-  - [Greenstep Cooling Towers](https://greenstepcoolingtowers.com/): Corporate website built with performance-first architecture. Achieves near-perfect (≈100) Google PageSpeed score on desktop.
-    - Github Repo: https://github.com/sambasoftwareuk/sambaPanel
+  - [Talrise Job Application Platform](http://app.talrise.com/): Streamlined job application portal with enhanced API architecture and optimized backend processes.
+    - Github Repo: Private Repository
 
-  - [Find Clinics](https://findclinics.co.uk/): Health tourism-focused web application enabling users to search, filter, and compare clinics efficiently.
-    - Github Repo: https://github.com/ttmjltd/findclinic
-
-  - [The Empower Platform](https://theempower.org/): Role-based community platform (Admin, Editor, User) built as a structured forum-style knowledge-sharing system.
-    - Github Repo: https://github.com/sambasoftwareuk/theempower
-
+  
 - 💬 Ask me about **JavaScript, React, NodeJS, Next.js, React Native, and Vibe Coding**
 
 - 📫 How to reach me: **muhsin.altintop@gmail.com**
@@ -104,12 +100,4 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhsinaltintop&show_icons=true&locale=en&layout=compact" alt="muhsinaltintop" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhsinaltintop&show_icons=true&locale=en" alt="muhsinaltintop" />
 </p>
